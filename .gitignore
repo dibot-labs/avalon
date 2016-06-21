@@ -9,6 +9,10 @@ node_modules
 # Optional npm cache directory
 .npm
 
+# Apple nonsense
+.DS_Store
+
 client/dist/bundle.js
 client/dist/bundle.js.map
 gitSpy/*
+
